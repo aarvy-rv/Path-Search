@@ -82,3 +82,23 @@ Madison 790
 - Cities and search types are case-sensitive.
 
 ---
+
+## Sample Output
+
+- Command: ./pathSearch input.txt dfs Omaha Houston
+- Output-->
+- Distance:5316
+- Path:
+- Omaha to Madison: 379
+- Madison to Milwaukee: 79
+- Milwaukee to DesMoines: 269
+- DesMoines to KansasCity: 189
+- KansasCity to Minneapolis: 432
+- Minneapolis to Indianapolis: 514
+- Indianapolis to Tulsa: 574
+- Tulsa to Nashville: 682
+- Nashville to OklahomaCity: 615
+- OklahomaCity to Atlanta: 790
+- Atlanta to Houston: 793
+
+------
