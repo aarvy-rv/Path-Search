@@ -1,0 +1,22 @@
+Chicago 750
+Milwaukee 820
+Madison 790
+DesMoines 720
+Minneapolis 910
+KansasCity 690
+StLouis 530
+Indianapolis 430
+Omaha 830
+Lincoln 860
+Tulsa 620
+OklahomaCity 740
+Dallas 950
+Houston 980
+Nashville 410
+Atlanta 245
+Charlotte 0
+Seattle 2800
+Portland 2700
+Sacramento 2600
+Boise 2200
+END
